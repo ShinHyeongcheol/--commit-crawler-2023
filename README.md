@@ -55,3 +55,4 @@ docker-compose up -d
 ## ip 따오기
 
 - docker inspect postgresql
+- ip 확인
