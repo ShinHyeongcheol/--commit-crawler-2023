@@ -56,3 +56,4 @@ docker-compose up -d
 
 - docker inspect postgresql
 - ip 확인
+- test
