@@ -51,3 +51,7 @@ docker-compose up -d
 ## 참고 깃허브
 
 - https://github.com/junho85/garden5
+
+## ip 따오기
+
+- docker inspect postgresql
