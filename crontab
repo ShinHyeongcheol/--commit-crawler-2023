@@ -1,0 +1,5 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+* * * * * root /usr/local/bin/node /app/task.js save >> /app/log/save_log.txt 2>&1
+# Don't remove the empty line at the end of this file.
