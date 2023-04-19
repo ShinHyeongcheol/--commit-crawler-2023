@@ -35,8 +35,7 @@ docker-compose up -d
 ### 환경변수 파일(.env)
 
 ```
-- KAKAOWORK_API
-- KAKAOWORK_CONVERSATION_ID
+
 - SLACK_API_TOKEN
 - SLACK_CHANNEL_ID
 - DB_USER
@@ -44,8 +43,8 @@ docker-compose up -d
 - DB_NAME
 - DB_PORT
 - DB_HOST
-- MEMBER_LIST=고병학,고병학 (띄어쓰기 없이 쉼표로 구분)
-- MEMBER_LIST_GITHUB=bengHak,bengHak (띄어쓰기 없이 쉼표로 구분)
+- MEMBER_LIST=신형철 (띄어쓰기 없이 쉼표로 구분)
+- MEMBER_LIST_GITHUB=ShinHyeongcheol (띄어쓰기 없이 쉼표로 구분)
 - TZ=Asia/Seoul
 ```
 
